@@ -137,3 +137,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Author
 
 **Om Singh** — [@om-singh-D](https://github.com/om-singh-D)
+**Varun K Chavda** - [@Varun-0905](https://github.com/Varun-0905)
+**Vedula Narasimha Bharadwaj** - [@CodeGod25](https://github.com/CodeGod25)
